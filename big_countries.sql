@@ -1,3 +1,4 @@
+# or key word
 
 SELECT name,population,area 
 FROM World 
